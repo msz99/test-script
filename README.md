@@ -1,5 +1,5 @@
 To install please run this twice
-wget https://raw.githubusercontent.com/msz99/test-script/main/testing.sh && chmod +x testing.sh && ./testing.sh
+ $ wget https://raw.githubusercontent.com/msz99/test-script/main/testing.sh && chmod +x testing.sh && ./testing.sh
 
 
 Enter the key 'FREE'
