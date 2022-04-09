@@ -5,9 +5,16 @@ $ wget https://raw.githubusercontent.com/msz99/test-script/main/testing.sh && ch
 ```
 
 ### Script Feature
+
 • SSH & OpenVPN
+
 • OHP SSH & OHP Dropbear & OHP OpenVPN
-• XRAY VLESS (XTLS, TLS, GRPC)
+
+• V2RAY VMESS & VLESS (TLS & NON TLS
+
+• XRAY VLESS (XTLS, TLS & GRPC)
+
+
 
 ### Os Supported
 
