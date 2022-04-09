@@ -6,19 +6,19 @@ $ wget https://raw.githubusercontent.com/msz99/test-script/main/testing.sh && ch
 
 ### Script Feature
 
-• SSH & OpenVPN
+SSH & OpenVPN
 
-• OHP SSH & OHP Dropbear & OHP OpenVPN
+OHP SSH & OHP Dropbear & OHP OpenVPN
 
-• V2RAY VMESS & VLESS (TLS & NON TLS)
+V2RAY VMESS & VLESS (TLS & NON TLS)
 
-• XRAY VLESS (XTLS, TLS & GRPC)
+XRAY VLESS (XTLS, TLS & GRPC)
 
 
 
 ### Os Supported
 
-• Debian 10 Only
+Debian 10 Only
 
 ### Service & Port
 
@@ -57,22 +57,28 @@ XRay GRPC               : 903
 
 ### Server Information & Other Features
 
-• Timezone              : Asia/Kuala_Lumpur (GMT +8)
+Timezone              : Asia/Kuala_Lumpur (GMT +8)
 
-• Fail2Ban              : [ON]
+Fail2Ban              : [ON]
 
-• DDoSDeflate           : [ON]
+DDoSDeflate           : [ON]
 
-• IPtables              : [ON]
+IPtables              : [ON]
 
-• Auto-Reboot           : [ON]
+Auto-Reboot           : [ON]
 
-• IPv6                  : [OFF]
+IPv6                  : [OFF]
 
-• Autoreboot On 05.00 GMT +8
+Autoreboot On 05.00 GMT +8
 
-• Auto Delete Expired Account (auto lock account when 0 days validity, auto delete account after 3 days of expiry)
+Auto Delete Expired Account (auto lock account when 0 days validity, auto delete account after 3 days of expiry)
 
-• Auto Ban Multiple Login Account (can be unlock)
+Auto Ban Multiple Login Account (can be unlock)
 
 ### Script by : t.me/msz99
+
+### Note :
+
+*to fix the stunnel4 is not running error, change the port at "menu>5>2>2" to any port u want (because im lazy to edit the file again)
+
+*ignore the sslh not running error, i'm not finish configuring sslh yet
