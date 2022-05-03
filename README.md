@@ -23,20 +23,35 @@ Tested on Debian 10 works fine
 ### Service & Port
 
 OpenSSH                 : 22
+
 OpenVPN                 : TCP 1194, UDP 2200
+
 Stunnel4                : 442
+
 Dropbear                : 109, 143
+
 Squid Proxy             : 3128, 8080
+
 OHP DropBear            : 8170
+
 OHP OpenVPN             : 8180
+
 Badvpn                  : 7300
+
 Nginx                   : 81
+
 V2Ray VMess TLS         : 443
+
 V2Ray VMess None TLS    : 80
+
 V2Ray VLess TLS         : 443
+
 V2Ray VLess None TLS    : 80
+
 XRay XTLS               : 901
+
 XRay TLS                : 902
+
 XRay GRPC               : 903
 
 
