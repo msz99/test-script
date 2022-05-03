@@ -65,10 +65,11 @@ Auto-Reboot           : [ON]
 IPv6                  : [OFF]
 
 Autoreboot On 05.00 GMT +8
+
 Auto Delete Expired Account (auto lock account when 0 days validity, auto delete account after 3 days of expiry)
+
 Auto Ban Multiple Login Account (can be unlock)
 
 ### Script by : t.me/msz99
 
-### Note :
-*to fix the stunnel4 is not running error, change the port at "menu>5>2>2" to any port u want (because im lazy to edit the file again)
+### Note : to fix the stunnel4 is not running error, change the port at "menu>5>2>2" to any port u want (because im lazy to edit the file again)
