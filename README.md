@@ -80,5 +80,3 @@ Auto Ban Multiple Login Account (can be unlock)
 ### Note :
 
 *to fix the stunnel4 is not running error, change the port at "menu>5>2>2" to any port u want (because im lazy to edit the file again)
-
-*ignore the sslh not running error, i'm not finish configuring sslh yet
