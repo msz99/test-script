@@ -1,4 +1,4 @@
-![alt text](https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/cp0kdmjkijpe7f9numpa)
+#![alt text](URL)
 
 ### To install please run this twice
 
